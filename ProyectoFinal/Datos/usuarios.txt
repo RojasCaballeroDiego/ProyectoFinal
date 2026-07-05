@@ -1,0 +1,5 @@
+Administrador;admin@starbucks.com;Admin123
+Diego;diego@gmail.com;Diego123
+Carla;carla@gmail.com;Carla123
+Pedro;pedro@gmail.com;Pedro123
+Alonso;alonso@gmail.com;Alonso123

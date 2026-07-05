@@ -1,0 +1,4 @@
+C001;Cappuccino;Caliente;Grande;18.5;12
+C002;Latte;Caliente;Mediano;17.0;3
+C003;Frappuccino;Frío;Grande;22.5;3
+C006;matcha;caliente;grande;14.5;6
