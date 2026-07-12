@@ -1,0 +1,30 @@
+C001;Espresso;Caliente;Pequeño;10.5;48
+C002;Americano;Caliente;Mediano;12.0;45
+C003;Cappuccino;Caliente;Grande;18.5;40
+C004;Latte;Caliente;Grande;17.0;35
+C005;Mocha;Caliente;Grande;19.0;30
+C006;Macchiato;Caliente;Pequeño;13.5;25
+C007;Chocolate;Caliente;Grande;16.5;20
+C008;Té Chai;Caliente;Mediano;15.5;28
+C009;Flat White;Caliente;Mediano;16.0;22
+C010;Café Negro;Caliente;Grande;11.5;60
+C011;Frappuccino Café;Frío;Grande;20.5;35
+C012;Frappuccino Mocha;Frío;Grande;22.0;30
+C013;Frappuccino Vainilla;Frío;Grande;21.5;32
+C014;Cold Brew;Frío;Grande;18.0;40
+C015;Iced Latte;Frío;Mediano;17.5;25
+C016;Iced Americano;Frío;Grande;15.0;38
+C017;Iced Mocha;Frío;Grande;20.0;26
+C018;Iced Caramel;Frío;Grande;21.0;24
+C019;Limonada;Frío;Grande;12.5;50
+C020;Té Helado;Frío;Grande;13.5;45
+C021;Café Peruano;Caliente;Grande;19.5;30
+C022;Café Pasado;Caliente;Mediano;14.5;33
+C023;Capuccino Vainilla;Caliente;Grande;20.5;20
+C024;Latte Caramelo;Caliente;Grande;21.0;22
+C025;Mocaccino;Caliente;Grande;22.5;18
+C026;Affogato;Frío;Mediano;19.0;15
+C027;Espresso Doble;Caliente;Pequeño;14.0;30
+C028;Latte Avellana;Caliente;Grande;22.0;24
+C029;Chocolate Blanco;Caliente;Grande;18.0;28
+C030;Frappuccino Cookies;Frío;Grande;23.5;20
